@@ -37,7 +37,7 @@ brew install SDL2_ttf
 # Flow chart
 ![Capture](https://user-images.githubusercontent.com/88714347/171421868-d6a7a3d6-6acd-495e-9506-7ab381bba5a4.JPG)
 # project Demo
- [![3D Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
+ [![The Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
 # Authors
 - Ephrem Getachew(https://github.com/Ephrem2166)
 
