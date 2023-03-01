@@ -23,8 +23,8 @@ brew install SDL2_ttf
  - Clone the [github repository](https://github.com/Susiniosgit/3D_Maze.git)
  - Compile all .c files in the maze directory:
   ```
-  gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm $(sdl2-config --cflags --libs) -lSDL_image -o maze
-   ```
+  gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm $(sdl2-config --cflags --libs) -lSDL2_image -o maze
+  ```
  - Execute ./maze and play the game.
  - Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
  - Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
@@ -40,7 +40,6 @@ brew install SDL2_ttf
  [![The Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
 # Authors
 - Ephrem Getachew(https://github.com/Ephrem2166)
-
 
 
 
